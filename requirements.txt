@@ -1,7 +1,0 @@
-numpy
-scipy
-pymc3
-pandas
-matplotlib
-theano
-seaborn
